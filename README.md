@@ -2,9 +2,8 @@
 
 [![Apache License](https://img.shields.io/badge/license-Apache%202.0-orange.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![GitHub](https://img.shields.io/github/release/emeloibmco/Kubernetes-Mood-Marbles.svg?color=green)](https://github.com/emeloibmco/Kubernetes-Mood-Marbles/releases)
-![GitHub stars](https://img.shields.io/github/stars/emeloibmco/Kubernetes-Mood-Marbles.svg?/color=blue&logo=GitHub)
 
-Repositorio para la aplicación Mood Marbles basada en la práctica *agile* del mismo nombre.
+Repositorio para la aplicación Mood Marbles basada en la práctica _agile_ del mismo nombre.
 
 ---
 
@@ -16,10 +15,12 @@ El siguiente diagrama muestra la arquitectura de la aplicación usando los servi
 
 ---
 
-## 🚀 **Despliegue de Backend en IBM Kubernetes Service (IKS)** 📦
+## :rocket: **Despliegue de Aplicacion Angular en Cloud Foundry** :cloud:
 
 ---
 
-## :rocket: **Despliegue de Aplicacion Angular en Cloud Foundry** :cloud:
+## 🚀 **Despliegue de Backend en IBM Kubernetes Service (IKS)** 📦
 
-Para más información consultar [Documentación](https://cloud.ibm.com/docs)
+El código y la documentación de la aplicación está en su respectivo [repositorio](https://github.com/emeloibmco/Kubernetes-Mood-Marbles-Backend)
+
+Para más información consultar [IBM Docs](https://cloud.ibm.com/docs)

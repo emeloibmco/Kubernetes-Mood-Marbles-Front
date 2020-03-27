@@ -1,0 +1,5 @@
+applications:
+  - name: moodmarblesfcol
+    memory: 256M
+    buildpack: staticfile_buildpack
+    path: dist
