@@ -4,15 +4,15 @@
 [![GitHub](https://img.shields.io/github/release/emeloibmco/Kubernetes-Mood-Marbles.svg?color=green)](https://github.com/emeloibmco/Kubernetes-Mood-Marbles/releases)
 ![GitHub stars](https://img.shields.io/github/stars/emeloibmco/Kubernetes-Mood-Marbles.svg?/color=blue&logo=GitHub)
 
-### Repositorio para la aplicación Mood Marbles basada en la práctica agile del mismo nombre.
+Repositorio para la aplicación Mood Marbles basada en la práctica *agile* del mismo nombre.
 
 ---
 
 ## 🏰 **Arquitectura**
 
-### El siguiente diagrama muestra la arquitectura de la aplicación usando los servicios de [IBM Cloud](https://cloud.ibm.com), [Cloud Foundry]() y [IBM Kubernetes Service](https://cloud.ibm.com/kubernetes/clusters)
+El siguiente diagrama muestra la arquitectura de la aplicación usando los servicios de [IBM Cloud](https://cloud.ibm.com), [Cloud Foundry]() y [IBM Kubernetes Service](https://cloud.ibm.com/kubernetes/clusters)
 
-![Mood Marbles Architecture](Images\Mood_Marbles_Arch.png)
+![Mood Marbles Architecture](https://raw.githubusercontent.com/emeloibmco/Kubernetes-Mood-Marbles/master/Images/Mood_Marbles_Arch.png)
 
 ---
 
